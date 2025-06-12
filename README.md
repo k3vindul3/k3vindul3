@@ -40,7 +40,7 @@ I enjoy solving complex problems at the intersection of **code, infrastructure, 
 ## 🌐 Connect with Me
 
 - 📫 Email: kevindule1010@gmail.com
-- 🛠 GitHub: [github.com/kevindule](https://github.com/kevindule)
+- 🛠 GitHub: [github.com/kevindule](https://github.com/k3vindul3)
 
 ---
 
